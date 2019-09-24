@@ -1,15 +1,7 @@
-<<<<<<< HEAD
-=======
-.upper{
-    font-size: 25px;
-    line-height: 0.8em;
-}
->>>>>>> 78ac4ea436e634fee3e109b6e486e8b37eb43b12
 .underline{
-    width: 100%;
+    width: 1105px;
     height: 2px;
     border-left: 95px solid black;
-<<<<<<< HEAD
     background: rgb(172, 172, 172);
 }
 .list{
@@ -17,12 +9,64 @@
 }
 
 .first{
-    width: 30%;
+    width: 316px;
+    height: 300px;
     border: 2px solid rgb(172, 172, 172);
     padding-left: 20px;
     padding-right: 20px;
     padding-bottom: 20px;
-=======
-    background: gray;
->>>>>>> 78ac4ea436e634fee3e109b6e486e8b37eb43b12
+    float: left;
+    margin-right: 2.5%;
+    margin-bottom: 40px;
+}
+
+.second{
+    width: 316px;
+    height: 300px;
+    border: 2px solid rgb(172, 172, 172);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    float: left;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    margin-bottom: 40px;
+}
+.third{
+    width: 316px;
+    height: 300px;
+    border: 2px solid rgb(172, 172, 172);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    float: left;
+    margin-left: 2.5%;
+    margin-bottom: 40px;
+}
+
+.fourth{
+    width: 316px;
+    height: 200px;
+    border-left: 2px solid rgb(172, 172, 172);
+    border-right: 2px solid rgb(172, 172, 172);
+    border-top: 2px solid rgb(172, 172, 172);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    float: left;
+    margin-right: 2.5%;
+}
+
+.fifth{
+    width: 316px;
+    height: 200px;
+    border-left: 2px solid rgb(172, 172, 172);
+    border-right: 2px solid rgb(172, 172, 172);
+    border-top: 2px solid rgb(172, 172, 172);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    float: left;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
 }

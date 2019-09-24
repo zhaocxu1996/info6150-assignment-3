@@ -26,14 +26,16 @@
     width: 100%;
 }
 
-.first-title{
+.unit-title{
     font-size: 26px;
     font-weight: bolder;
+    height: 40px;
 }
 
-.first-content{
+.unit-content{
     font-size: 18px;
     padding-bottom: 20px;
+    height: 160px;
 }
 
 .imagesize{
