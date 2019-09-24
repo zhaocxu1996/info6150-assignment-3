@@ -1,7 +1,15 @@
+<<<<<<< HEAD
+=======
+.upper{
+    font-size: 25px;
+    line-height: 0.8em;
+}
+>>>>>>> 78ac4ea436e634fee3e109b6e486e8b37eb43b12
 .underline{
     width: 100%;
     height: 2px;
     border-left: 95px solid black;
+<<<<<<< HEAD
     background: rgb(172, 172, 172);
 }
 .list{
@@ -14,4 +22,7 @@
     padding-left: 20px;
     padding-right: 20px;
     padding-bottom: 20px;
+=======
+    background: gray;
+>>>>>>> 78ac4ea436e634fee3e109b6e486e8b37eb43b12
 }
