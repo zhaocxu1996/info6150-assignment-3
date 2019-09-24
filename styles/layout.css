@@ -1,11 +1,14 @@
-.underline{
-    width: 1105px;
-    height: 2px;
-    border-left: 95px solid black;
-    background: rgb(172, 172, 172);
+.body{
+    margin-top: 20px;
+    margin-left: 100px;
+    width: 1200px;
 }
-.list{
-    padding-top: 20px;
+
+.underline{
+    width: 1095px;
+    height: 2px;
+    border-left: 105px solid black;
+    background: rgb(172, 172, 172);
 }
 
 .first{

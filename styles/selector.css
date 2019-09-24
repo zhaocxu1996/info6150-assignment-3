@@ -1,10 +1,35 @@
-div h1{
+div > h1{
     font-family: 'Righteous', cursive;
     font-size: 40px;
 }
 
-div h2{
-    font-size: 26px;
+div > section {
+    font-weight: bolder;
+    font-size: 24px;
+}
+
+div > h2{
+    margin-top: 25px;
+    font-size: 20px;
     font-weight: bolder;
     height: 40px;
+}
+
+p > span{
+    color: rgb(24, 171, 101);
+}
+
+p + span{
+    font-size: 10px;
+}
+
+h2 + p {
+    line-height: 1.7em;
+    font-size: 15px;
+    padding-bottom: 20px;
+    height: 160px;
+}
+
+section + div {
+    padding-top: 30px;
 }
