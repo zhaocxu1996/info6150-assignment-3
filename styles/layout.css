@@ -1,0 +1,10 @@
+.upper{
+    font-size: 25px;
+    line-height: 0.8em;
+}
+.underline{
+    width: 100%;
+    height: 2px;
+    border-left: 95px solid black;
+    background: gray;
+}
